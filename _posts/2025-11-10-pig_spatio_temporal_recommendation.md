@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "pig_Spatio_temporal_Recommendation"
+title: "时空推荐系统"
 subtitle: "SBR"
 date: 2025-11-10
 author: "郭昊冰"
 header-img: "img/post-bg-2015.jpg"
-tags: [Recommendation,Spatio_temporal]
+tags: []
 mathjax:true
 ---
 
@@ -14,6 +14,10 @@ mathjax:true
 ## Session-based Recommendation
 
 在狭窄的时间段内，用户的交互非常少，用户往往是未登录的。基于会话的推荐应运而生。
+
+## GNN-based Model
+
+GNN无法建模
 
 
 ## 参考文献
