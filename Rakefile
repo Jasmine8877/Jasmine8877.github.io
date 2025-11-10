@@ -41,6 +41,7 @@ task :post do
     post.puts "author: \"曾婉馨\""
     post.puts "header-img: \"img/post-bg-2015.jpg\""
     post.puts "tags: []"
+    post.puts "mathjax:true"
     post.puts "---"
   end
 end # task :post
