@@ -3,7 +3,7 @@ layout: post
 title: "Graph out-of-distribution learning"
 subtitle: "About Domain Adaptation, Out-of-distribution"
 date: 2025-11-25
-author: "曾婉馨"
+author: "小漂亮"
 header-img: "img/post-bg-2015.jpg"
 tags: []
 mathjax: true
