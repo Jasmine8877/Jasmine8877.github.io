@@ -38,7 +38,7 @@ task :post do
     post.puts "title: \"#{title.gsub(/-/,' ')}\""
     post.puts "subtitle: \"#{subtitle.gsub(/-/,' ')}\""
     post.puts "date: #{date}"
-    post.puts "author: \"曾婉馨\""
+    post.puts "author: \"大美丽\""
     post.puts "header-img: \"img/post-bg-2015.jpg\""
     post.puts "tags: []"
     post.puts "mathjax:true"
