@@ -1,3 +1,12 @@
+---
+layout: post
+title: "异常检测，多类新颖性检测，开集识别，分布外检测，离群值检测"
+subtitle: "相关工作总结主要面向分布外检测"
+date: 2025-11-25
+author: "曾婉馨"
+header-img: "img/post-bg-2015.jpg"
+tags: []
+mathjax: true
 
 ------
 图OOD检测方面
