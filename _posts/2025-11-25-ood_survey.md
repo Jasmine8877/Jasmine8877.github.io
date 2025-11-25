@@ -3,7 +3,7 @@ layout: post
 title: "Out-of-distribution learning"
 subtitle: "Anomaly detection, multi-class novelty detection, open set identification, out-of-distribution detection, outlier detection"
 date: 2025-11-25
-author: "大美丽"
+author: "小漂亮"
 header-img: "img/post-bg-2015.jpg"
 tags: []
 mathjax: true
