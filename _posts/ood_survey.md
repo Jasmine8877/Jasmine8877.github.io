@@ -7,7 +7,7 @@ author: "曾婉馨"
 header-img: "img/post-bg-2015.jpg"
 tags: []
 mathjax: true
-
+  
 ------
 图OOD检测方面
 1. 强调节点分类的主要目的是将节点归入预定义类别，而OOD检测更像是一个附加功能。​​OOD检测只是一个filter,把ood节点过滤掉就行，质疑是否有研究专门以OOD检测为主要目的​​？还是主要进行节点分类，OOD只是怕影响分类效果？
